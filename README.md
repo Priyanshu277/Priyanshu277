@@ -17,13 +17,13 @@ I'm also deeply invested in **Data Structures and Algorithms (DSA)** and problem
 ### 🎬 [Movie Recommender System](https://github.com/Priyanshu277/movie-recommender-system)
 A content-based movie recommendation system using cosine similarity to recommend the top 5 similar movies based on user preferences.
 
-### 📊 [Stock Price Prediction](https://github.com/Priyanshu277/Stock_Price_Prediction)
+### 📊 [Stock Price Prediction](https://github.com/Priyanshu277/Stock_Market_Prediction)
 Developed a predictive model using RandomForest to forecast stock prices. This project highlights the power of machine learning in financial markets.
 
-### 🛠️ [Text-to-SQL Generative AI App](https://github.com/Priyanshu277/Text-To_Sql)
+### 🛠️ [Text-to-SQL Generative AI App](https://github.com/Priyanshu277/Text-To-Sql)
 A generative AI application that converts natural language text into SQL queries, bridging the gap between non-technical users and databases.
 
-### 💬 [Twitter Sentiment Analysis](https://github.com/Priyanshu277/Twitter_Sentiment-Analysis)
+### 💬 [Twitter Sentiment Analysis](https://github.com/Priyanshu277/Twitter_Sentiment_Analysis)
 A sentiment analysis project that classifies tweets as positive, negative, or neutral using natural language processing techniques.
 
 ## 📫 Let's Connect!
